@@ -1,4 +1,4 @@
-program Project2;
+program patcher;
 
 {$APPTYPE CONSOLE}
 {$R *.res}
